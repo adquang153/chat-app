@@ -1,0 +1,8 @@
+.chat-body{
+    height: 50vh;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column-reverse;
+    list-style: none;
+    margin-top: 16px;
+}

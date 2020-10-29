@@ -1,0 +1,16 @@
+.right{
+    text-align: right;
+}
+.chat-item{
+    max-width: 65%;
+    padding: 8px 14px;
+    border-radius: 8px;
+    display: inline-block;
+}
+.left .chat-item{
+    background: #e6dada;
+}
+.right .chat-item{
+    background: #656fde;
+    color: #fff;
+}
